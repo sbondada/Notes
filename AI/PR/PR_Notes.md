@@ -109,12 +109,11 @@ Differences
 
 threshold setting | complexity term | chi square significance | pruning
 ------------------|-----------------|-------------------------|--------
-benefits|benefits|benefits|benefits|benefits
+**benefits|benefits|benefits|benefits|benefits**
 trained on whole data|trained on whole data|trained on whole data|trained on whole data|trained on whole data
 allows different levels of leafs|allows different levels of leafs|allows different levels of leafs|allows different levels of leafs|allows different levels of leafs
  | | |selects global minima's
-
-Drawbacks|Drawbacks|Drawbacks|Drawbacks|Drawbacks|
+**Drawbacks|Drawbacks|Drawbacks|Drawbacks|Drawbacks**
 need to select threshold| need to select a| |additional computation 
 selects local minima's|selects local minima's|selects local minima's|
 
